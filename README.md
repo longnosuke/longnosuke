@@ -3,7 +3,9 @@
 🎓 I’m a Business Administration graduate (Vietnamese German University, 2024), but my story doesn’t stop at business. Along the way, I discovered a true passion for software development—and I've been building, designing, and coding ever since.
 
 # 💻 Tech Stack:
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,php,wordpress,postgres,javascript,vite,svelte,ps&theme=dark" />
+</p>
 
 # Contribution
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=longnosuke&bg_color=000000&color=56D364&line=389e65&point=56D364&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
