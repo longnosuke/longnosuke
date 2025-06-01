@@ -18,6 +18,7 @@ But I didn’t stop at visuals.
 
 In 2024, I took a deep dive into the technical side of the web:
 - At **NewstyleDirect**, I handled **tech support**, fixed bugs, and developed new features that improved user experience and optimized site performance.
+- At **ImtbnDev**, I develop new internal tools, automated some processes, write intergration with some Sass.
 - At **WebNow**, I became a **web developer**, completing 15+ projects using WordPress, delivering custom web solutions, and ensuring every site was fast, responsive, and delightful to use.
 
 ---
