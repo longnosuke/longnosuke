@@ -7,9 +7,6 @@
   <img src="https://skillicons.dev/icons?i=ruby,rails,php,wordpress,postgres,javascript,vite,svelte,ps&theme=dark" />
 </p>
 
-# Contribution
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=longnosuke&bg_color=000000&color=56D364&line=389e65&point=56D364&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🚀 My Journey
 
 It all started when I led the **Design and Media team at Presto (2020–2022)**. From collaborating with creatives to shaping themes and visual stories, I realized how much I loved solving problems with both design and logic. This passion led me to freelance as a **designer and video editor**, where I worked with clubs, bands, and fashion creatives on 10+ diverse projects.
