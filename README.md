@@ -2,7 +2,7 @@
 
 I’m a Business Administration graduate (Vietnamese German University, 2024), but my story doesn’t stop at business. Along the way, I discovered a true passion for software development—and I've been building, designing, and coding ever since.
 
-**- Currently working at StackX as Software developer**
+**- Currently working at StackX and IMTBN as Software developer**
 
 
 ## 🚀 My Journey
