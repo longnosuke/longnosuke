@@ -4,12 +4,15 @@ I’m a Business Administration graduate (Vietnamese German University, 2024), b
 
 **- Currently working at StackX and IMTBN as Software developer**
 
-
 ## 🚀 My Journey
 - At **NewstyleDirect**, I handled **tech support**, fixed bugs, and developed new features that improved user experience and optimized site performance.
 - At **ImtbnDev**, I develop new internal tools, automated some processes, write intergration with some Sass.
 - At **WebNow**, I became a **web developer**, completing 15+ projects using WordPress, delivering custom web solutions, and ensuring every site was fast, responsive, and delightful to use.
 - At **StackX**, I'm both software developer and susiness development where handle client requests/feedback, planning and execute them all by myself.
+
+## My portfolio:
+
+- [portfolio.codebyliam.com](https://portfolio.codebyliam.com/)
 
 # Tech Stack:
 <p align="left">
